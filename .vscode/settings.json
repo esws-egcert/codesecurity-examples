@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "winsock2.h": "c",
-        "internet": "c"
+        "internet": "c",
+        "cstring": "c"
     }
 }
