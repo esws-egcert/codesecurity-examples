@@ -1,2 +1,2 @@
 # codesecurity-examples
-This repository introduces source code of the most common CWE memory management weakneses that should be considered when targeting security of the code.
+This repository introduces source code examples of the most common CWE memory management weakneses that you can compile and try appling wrong inputs to understand the weakness.
